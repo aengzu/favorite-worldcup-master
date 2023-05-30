@@ -37,7 +37,7 @@ export const FlexBox = styled.div`
     z-index: 3;
     color: #fff;
     bottom: 10%;
-    font-size: 90px;
+    font-size: 30px;
     left: 50%;
     transform: translateX(-50%);
   }
